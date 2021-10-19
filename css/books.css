@@ -1,0 +1,28 @@
+div{
+    border: solid 2px rgb(20, 20, 20);
+    width: 24%;
+    height: 500px;
+    float: left;
+    background-color: rgb(185, 182, 140);
+    text-align: center;
+}
+#id1{
+    color: rgb(15, 1, 66);
+}
+#id2{
+    color: rgb(22, 7, 85);
+}
+#id3{
+    color: rgb(12, 11, 78);
+}
+#id4{
+    color: rgb(23, 9, 75);
+}
+h1{
+    color: green;
+    text-align:center;
+}
+div img{
+    height: 39%;
+    width: 29%;
+}

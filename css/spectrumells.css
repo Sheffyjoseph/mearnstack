@@ -1,0 +1,113 @@
+h2{
+    color: #000;
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 100px;
+    border: solid 2px rgb(0, 0, 0);
+}
+#sp1{
+    margin-left: 500px;
+    background-color: rgb(61, 61, 60);
+}
+#sp2{
+    margin-left: 610px;
+    margin-top: -103px;
+    background-color: rgb(35, 54, 38);
+}
+#sp3{
+    margin-left: 722px;
+    margin-top: -104px;
+    background-color: rgb(50, 141, 73);
+}
+#sp4{
+    margin-left: 835px;
+    margin-top: -103px;
+    background-color: rgb(9, 197, 50);
+}
+#sp5{
+    margin-left: 948px;
+    margin-top: -103px;
+    background-color: darkgray;
+}
+#s1{
+    margin-left: 387px;
+    margin-top: 8px;
+    background-color: darkorange;
+}
+#s2{
+    margin-left: 500px;
+    margin-top: -103px;
+    background-color: rgb(129, 58, 58);
+}
+#s3{
+    margin-left: 613px;
+    margin-top: -103px;
+    background-color: rgb(102, 67, 63);
+}
+#s4{
+    margin-left: 726px;
+    margin-top: -103px;
+    background-color: rgb(68, 43, 136);
+}
+#s5{
+    margin-left: 839px;
+    margin-top: -103px;
+    background-color: rgb(59, 28, 131);
+}
+#s6{
+    margin-left: 952px;
+    margin-top: -103px;
+    background-color: rgb(30, 4, 71);
+}
+#s7{
+    margin-left: 1065px;
+    margin-top: -103px;
+    background-color: rgb(97, 94, 94);
+}
+#se2{
+    margin-left: 274px;
+    margin-top: 6px;
+    background-color: rgb(120, 248, 162);
+}
+#se3{
+    margin-left: 387px;
+    margin-top: -103px;
+    background-color: rgb(253, 216, 6);
+}
+#se4{
+    margin-left: 500px;
+    margin-top: -103px;
+    background-color: rgb(153, 12, 7);
+}
+#se5{
+    margin-left: 613px;
+    margin-top: -103px;
+    background-color: hotpink;
+}
+#se6{
+    margin-left: 726px;
+    margin-top: -103px;
+    background-color: rgb(31, 9, 9);
+}
+#se7{
+    margin-left: 839px;
+    margin-top: -103px;
+    background-color: cyan;
+}
+#se8{
+    margin-left: 952px;
+    margin-top: -103px;
+    background-color: rgb(61, 95, 61);
+}
+#se9{
+    margin-left: 1065px;
+    margin-top: -103px;
+    background-color: rgba(58, 42, 66, 0.788);
+}
+#se10{
+    margin-left: 1178px;
+    margin-top: -103px;
+    background-color: dimgray;
+}

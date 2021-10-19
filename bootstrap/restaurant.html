@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" />
+    <link rel="stylesheet" href="./restaurant.css">
+    <style>
+        .nav-item a:hover {
+          background-color: rgb(225, 228, 231);
+        }
+      </style>
+
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+            <img src="./images/res icon.jfif" alt="" width="80px" height="80px" class="mb-1">
+            <h1 class="text-dark">Kasa Kitchen</h1>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 ">
+                    <li class="nav-item">
+                        <a class="nav-link active text-info" aria-current="page" href="#">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active text-info" href="#">ABOUT</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active text-info" href="#">MENU</a>
+
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Action</a></li>
+                            <li><a class="dropdown-item" href="#">Another action</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active text-info" href="#">SPECIALS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active text-info" href="#">GALLERY</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active text-info" href="#">CONTACT</a>
+                    </li>
+                </ul>
+                <form class="d-flex">
+                    <button class="btn btn-outline-success mx-4" type="submit">Book a Table</button>
+                  </form>
+            </div>
+        </div>
+    </nav>
+</head>
+
+<body>
+
+    <!-- Button trigger modal -->
+  <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Kasa Kitchen
+  </button>
+
+
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <!-- <div class="modal-header"> -->
+        <h5 class="modal-title fw-bold mt-3 ms-4" id="exampleModalLabel">Fill These</h5>
+
+        <div class="modal-body">
+          <input type="text" class="form-control border-top-0 border-start-0 border-end-0" placeholder="Name">
+          <input type="email" class="form-control border-top-0 border-start-0 border-end-0 mt-3" placeholder="Email">
+          <input type="text" class="form-control border-top-0 border-start-0 border-end-0 mt-3"
+            placeholder="Phone Number">
+          <input type="text" class="form-control border-top-0 border-start-0 border-end-0 mt-3" placeholder="City">
+          <textarea name="" id="" cols="30" rows="5" placeholder="Comments"
+            class="border-top-0 border-start-0 border-end-0 mt-3 form-control"
+            aria-label="Disabled input example"></textarea>
+          <button id="buttonlast" class="btn btn-outline-success mt-3">SUBMIT</button>
+
+        </div>
+      </div>
+    </div>
+  </div>
+    <main>
+          <div class="home"></div>
+          <div class="about">
+            
+
+          </div>
+    </main>
+    <footer>
+        <div class="column">
+            <p class="shef">Connect With Us</p>
+        </div>
+        <div class="column">
+            <ul class="social-links">
+                <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+            </ul>
+        </div>
+        <div class="column">
+            <p>
+                &copy;copyrights sheffyjoseph. All rights served.
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,14 @@
+div{
+    border: solid 2px rgb(80, 75, 75);
+    height: 24%;
+    width: 500px;
+    margin-left: 200px;
+}
+#box1{
+    background-color: red;
+    margin-left: 400px;
+}
+#box2{
+    background-color: royalblue;
+    margin-top: 200px;
+}

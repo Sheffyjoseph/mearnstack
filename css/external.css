@@ -1,0 +1,17 @@
+/* selectors
+tag selectors
+class selectors */
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&display=swap');
+h1{
+    color: blue;
+}
+body{
+    background-color: darkgray;
+}
+#second{
+    color:hsl(168°, 3%, 6%);
+}
+.c3{
+    color: maroon;
+    font-family: 'Gemunu Libre', sans-serif;
+}

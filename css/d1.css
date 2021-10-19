@@ -1,0 +1,24 @@
+div{
+    border: solid 2px rgb(32, 78, 78);
+    width: 30%;
+    height: 174px;
+    float: left;
+    background-color: darkcyan;
+    text-align: center;
+}
+#id2{
+    background-color: darkgrey;
+}
+#id1{
+    background-color: deeppink;
+}
+#id3{
+    background-color: gold;
+}
+div img{
+    height: 40%;
+    width: 500px;
+}
+div p{
+    color: purple;
+}

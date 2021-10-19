@@ -1,0 +1,11 @@
+.big{
+    border: black 2px solid;
+    height: 700px;
+    width: 1000px;
+    margin-left: 200px;
+    position: relative;
+}
+.lit{
+    border: black 1px solid;
+    position: absolute;
+}

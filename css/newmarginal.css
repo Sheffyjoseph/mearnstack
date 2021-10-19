@@ -1,0 +1,24 @@
+div{
+    border: solid 2px black;
+    width: 300px;
+    height: 150px;
+}
+.box1{
+    background-color: rgb(185, 180, 172);
+    top: 200px;
+    left: 50%;
+}
+.box2{
+    background-color: cadetblue;
+    width: 1050px;
+    position: sticky;
+    top: 1px;
+}
+.box3{
+    background-color: chartreuse;
+    position: fixed;
+}
+/* position absolute - free moving  */
+/* position fixed - fixed*/
+/* position sticky - include top value also */
+/*  */

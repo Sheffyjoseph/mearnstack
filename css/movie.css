@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+.parent{
+    width: 100%;
+    height: 550px;
+    border: 1px solid white;
+    background-color: rgb(212, 140, 5);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.mov{
+    width: 290px;
+    height: 527px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.a{
+    border: 2px solid white;
+    width: 285px;
+    height: 20px;
+}

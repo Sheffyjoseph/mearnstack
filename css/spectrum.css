@@ -1,0 +1,95 @@
+h1{
+    color: green;
+    margin-left: 600px;
+}
+div{
+    height: 130px;
+    width: 100px;
+    border: solid 2px #000000;
+    float: left;
+    margin-top: 10px;
+}
+#sp1{
+    margin-left: 548px;
+    background-color: skyblue;
+}
+#sp2{
+    background-color: slategrey;
+    margin-left: 10px;
+}
+#sp3{
+    background-color: yellow;
+    margin-left: 10px;
+}
+#sp4{
+    background-color: tomato;
+    margin-left: 10px;
+}
+#sp5{
+    background-color: violet;
+    margin-left: 10px;
+}
+#s1{
+    margin-left: 435px;
+    background-color: saddlebrown;
+}
+#s2{
+    margin-left: 10px;
+    background-color: silver;
+}
+#s3{
+    margin-left: 10px;
+    background-color: teal;
+}
+#s4{
+    margin-left: 10px;
+    background-color:rebeccapurple ;
+}
+#s5{
+    margin-left: 10px;
+    background-color: seagreen;
+}
+#s6{
+    margin-left: 10px;
+    background-color: yellowgreen;
+}
+#s7{
+    margin-left: 10px;
+    background-color: rgb(4, 5, 3);
+}
+#se2{
+    margin-left: 323px;
+    background-color: rgb(7, 1, 46);
+}
+#se3{
+    margin-left: 10px;
+    background-color: rgb(88, 131, 88);
+}
+#se4{
+    margin-left: 10px;
+    background-color: black;
+}
+#se5{
+    margin-left: 10px;
+    background-color: rgb(40, 40, 54);
+}
+#se6{
+    margin-left: 10px;
+    background-color: chocolate;
+}
+#se7{
+    margin-left: 10px;
+    background-color: cornsilk;
+}
+#se8{
+    margin-left: 10px;
+    background-color: rgb(4, 32, 4);
+}
+#se9{
+    margin-left: 10px;
+    background-color: darkslateblue;
+}
+#se10{
+    margin-left: 10px;
+    background-color: rgb(185, 73, 73);
+}

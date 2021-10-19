@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+h1{
+    font-family: 'Festive', cursive;
+}
+.home{
+    height: 600px;
+    width: 100%;
+    background-image: url(./images/kasa\ kitchen.webp);
+    background-size: cover;
+}
+footer{
+    background-color: #3b3b3b;
+    padding: 40px 80px;
+}
+footer p{
+    color: rgb(2, 2, 2);
+    text-align: center;
+}
+.social-links li{
+    list-style: none;
+    display: flex;
+    margin-left: 600px;
+}
+.social-links li a{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    width: 60px;
+    height: 60px;
+}
+.social-links li a:link,
+.social-links li a:visited{
+    text-decoration: none;
+    transition: all 1s;
+}
+.social-links li a:active,
+.social-links li a:hover{
+    background-color: #ececec;
+    border-radius: 50px;
+}

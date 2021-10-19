@@ -1,0 +1,12 @@
+div{
+    background-color: gray;
+    color: lime;
+    height: 500px;
+    width: 500px;
+}
+p{
+    padding-left: 50px;
+}
+body{
+    background-image: url(./images/933684.jpg);
+}
